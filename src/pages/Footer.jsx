@@ -79,7 +79,7 @@ const Footer = () => {
             </div>
 
             <div className="flex items-center justify-center py-10 mt-[-103px]">
-                <span className="leading-10">© Copyright, All Rights Reserved by infoprintsolution</span>
+                <span className="leading-10">© Copyright, All Rights Reserved by 123techprint</span>
             </div>
         </footer>
     );
